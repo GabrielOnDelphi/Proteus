@@ -1,14 +1,4 @@
-# Proteus
-Proteus is a licensing system. It helps us to convert a dull Delphi program to a commercial program that we can deliver as a trial/shareware.
-
-
-Proteus
-
-Do you have your own commercial app that you are selling, or do you plan to do that? If yes, read on, if not, skip the whole chapter.
-
-What is Proteus?
-
-Proteus is a licensing system that I designed. It helps us to convert a dull Delphi program to a commercial program that we can deliver as a trial/shareware.
+Proteus is a licensing system for Delphi. It helps us to convert a dull Delphi program to a commercial program that we can deliver as a trial/shareware.
 
 Multiple usage scenarios are possible:
 â€¢	Trial license
@@ -231,3 +221,7 @@ If we want to allow the program to continue loading even if the "Trial expiredâ€
 Demo
 
 A Proteus demo program is available for download. Extra documentation can be found also in the source code (all functions are fully documented).
+
+Availability
+
+Proteus code requires the other libraries of mine (see LightSaber). Some of them have not been published yet. Proteus code will be published as soon as these libraries will be also published. 
