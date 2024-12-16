@@ -265,4 +265,4 @@ Demo program
 
 A Proteus demo program is available for download. Extra documentation can be found also in the source code (all functions are fully documented).
 
-Details about Delphi Proteus License Manager are available on www.GabrielMoraru.com 
+Details about Delphi Proteus License Manager are available on [www.GabrielMoraru.com ](https://gabrielmoraru.com/my-delphi-code/)
